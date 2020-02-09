@@ -7,6 +7,8 @@ public class Testing {
     public static void main(String[] args) {
         String[] data = {"Ivan Ivanov", "Bulgaria", "Sofia", "Ulica", "23020"};
         System.out.println(formatLetter(data));
+
+        System.out.println("test test");
     }
 
     public static String formatLetter(String[] data) {
